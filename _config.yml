@@ -1,0 +1,23 @@
+name: Ben Money
+favicon: null
+layout_spectrum: 0.020033387234434485
+typography_spectrum: 0.9250445130746812
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.463708734838292
+  lightness: 0.9768576647620648
+  saturation: 0.4035094629507512
+  rhythmicContrast: 0.03123607928864658
+purpose: []
